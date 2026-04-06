@@ -201,15 +201,15 @@ Creates an optimized production build in the `build/` folder.
 
 ## Future Enhancements
 
-- [ ] Payment integration (Stripe)
-- [ ] Email notifications
-- [ ] SMS alerts
-- [ ] QR code generation for tickets
-- [ ] Advanced filtering options
-- [ ] User profile management
-- [ ] Booking history
-- [ ] Rating and reviews
-- [ ] Multi-language support
+- Payment integration (Stripe)
+- Email notifications
+- SMS alerts
+- QR code generation for tickets
+- Advanced filtering options
+- User profile management
+- Booking history
+- Rating and reviews
+- Multi-language support
 
 ## License
 
